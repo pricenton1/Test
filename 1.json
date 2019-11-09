@@ -1,0 +1,50 @@
+{
+	"name" : "Antony Mirasandy",
+	"age" : "23",
+	"address" : "Jl.Sd Inpres Pabuaran Barat",
+	"hobbies" : ["Coding","Design","Game Online","Watching Anime"],
+	"Is_married" : "false",
+	"list_school" : [
+		{
+		"name" : "SDN Pondok Karya 01",
+		"year_in" : "2002",
+		"year_out" : "2008",
+		"major" : "null"
+	},
+
+	{
+		"name" : "SMPN 13 Tangerang Selatan",
+		"year_in" : "2008",
+		"year_out" : "2011",
+		"major" : "null"
+	},
+
+	{
+		"name" : "SMK YADIKA 5 Pondok Aren",
+		"year_in" : "2011",
+		"year_out" : "2014",
+		"major" : "Teknik Komputer dan Jaringan"
+	},
+
+	{
+		"name" : "Universitas BSI",
+		"year_in" : "2015",
+		"year_out" : "2019",
+		"major" : "Diploma 3 Sistem Informasi"
+	}
+	
+	],
+
+	"skills" : [
+		{
+			"skill_name" : "Web Development",
+			"level" : "beginner"
+		}
+
+
+	],
+
+	"interest_in_coding" : "true"
+	
+
+}
